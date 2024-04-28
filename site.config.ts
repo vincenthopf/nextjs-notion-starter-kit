@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '5239740ce829473ebd85f8cb46263f22',
+  rootNotionPageId: '8e2c7f78a8ae41d4adeae242ed73b062',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Vincent Hopf',
 
   // open graph metadata (optional)
-  description: 'Vincent Hopf - Maker, creator, life long student.',
+  description: 'Vincent Hopf - Maker, Creator, Life Long student.',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
